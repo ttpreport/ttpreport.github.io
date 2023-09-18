@@ -1,0 +1,25 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+    <div class="site-footer-inner">
+        {%- assign currentYear = 'now' | date: "%Y" -%}
+        {%- assign copyright = site.copyright
+            | replace: '{currentYear}', currentYear
+            | replace: '{author}', site.author
+            | replace: '(c)', '&copy;'
+            | replace: '(p)', '℗'
+            | replace: '(cleft)', '&#x1f12f;'
+        -%}
+      <div class="left">{{ copyright }}</div>
+      <div class="right">
+        <a href="{{ site.onlyfans_link }}"><i class="fa fa-fire"></i></a>
+        <a href="{{ site.twitter_link }}"><i class="fa fa-twitter"></i></a>
+        <a href="{{ site.github_link }}"><i class="fa fa-github"></i></a>
+        <a href="{{ site.telegram_link }}"><i class="fa fa-telegram"></i></a>
+        <a href="mailto:{{ site.email }}"><i class="fa fa-envelope"></i></a>
+        <a href="/feed.xml"><i class="fa fa-rss"></i></a>
+      </div>
+    </div>
+  </div>
+</footer>
