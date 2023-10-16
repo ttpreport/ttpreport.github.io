@@ -8,9 +8,7 @@ images_path: /assets/images/posts/2023-09-18-abusing-cloud-poor-man-phishing
 banner:
   image: /assets/images/posts/2023-09-18-abusing-cloud-poor-man-phishing/banner.png
 image: /assets/images/posts/2023-09-18-abusing-cloud-poor-man-phishing/banner.png
-tags: T1583 T1566 cloud terraform phishing
-new: 1
-sidebar: []
+tags: ["T1583", "T1566", "cloud", "terraform", "phishing"]
 ---
 
 There are numerous threat intel reports mentioning abuse of public cloud infrastructure by different groups and individuals. What I want to explore here is how viable this is today and, most importantly, can I do it absolutely anonymously and spending exactly 0 money.
