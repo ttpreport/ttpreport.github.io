@@ -7,7 +7,6 @@ categories: phishing
 images_path: /assets/images/posts/2023-09-18-abusing-cloud-poor-man-phishing
 banner:
   image: /assets/images/posts/2023-09-18-abusing-cloud-poor-man-phishing/banner.png
-image: /assets/images/posts/2023-09-18-abusing-cloud-poor-man-phishing/banner.png
 tags: ["T1583", "T1566", "cloud", "terraform", "phishing"]
 ---
 

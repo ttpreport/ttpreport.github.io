@@ -32,7 +32,9 @@ favicon:
 
 # Build settings
 remote_theme: "jeffreytse/jekyll-theme-yat"
+night_mode: "on"
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-paginate
