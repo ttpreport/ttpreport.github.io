@@ -7,6 +7,7 @@ categories: evasion
 images_path: /assets/images/posts/2023-11-02-releasing-activemaim-evade-macros-detection
 banner:
   image: /assets/images/posts/2023-11-02-releasing-activemaim-evade-macros-detection/banner.png
+image: /assets/images/posts/2023-11-02-releasing-activemaim-evade-macros-detection/banner.png
 tags: ["T1059", "T1140", "T1564", "vba", "office", "evasion"]
 ---
 
