@@ -17,7 +17,7 @@ description: >-
 baseurl: ""
 url: "https://ttp.report"
 twitter_link: "https://twitter.com/ttpreport"
-github_link:  "https://twitter.com/ttpreport"
+github_link:  "https://github.com/ttpreport"
 telegram_link: "https://t.me/ttpreport"
 copyright: TTP Report (cleft) {currentYear}
 google_analytics: G-G048T8EH4N
