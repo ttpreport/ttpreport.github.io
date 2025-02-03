@@ -8,7 +8,7 @@ images_path: /assets/images/posts/2024-01-21-ligolo-mp-pivoting-with-friends
 banner:
   image: /assets/images/posts/2024-01-21-ligolo-mp-pivoting-with-friends/banner.png
 image: /assets/images/posts/2024-01-21-ligolo-mp-pivoting-with-friends/banner.png
-tags: ["T1199", "T1200", "pivoting"]
+tags: ["TA0008", "pivoting", "tunneling", "multiplayer"]
 ---
 
 When it comes to pivoting, your trusty C2's socks chains are the usual choice, but they are a pain in the ass, especially when you don't need stealth. Until recently, I've mostly used Chisel in such instances, I've also played around with tun2socks on top of all that and it's alright, but it's a bit wonky and takes too much effort to set up and maintain.

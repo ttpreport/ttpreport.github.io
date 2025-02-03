@@ -8,7 +8,7 @@ images_path: /assets/images/posts/2025-02-03-siphondns-covert-dns-exfiltration
 banner:
   image: /assets/images/posts/2025-02-03-siphondns-covert-dns-exfiltration/banner.png
 image: /assets/images/posts/2025-02-03-siphondns-covert-dns-exfiltration/banner.png
-tags: ["TA0005", "TA0011", "evasion"]
+tags: ["TA0005", "TA0011", "TA0010", "exfil", "C2", "DNS"]
 ---
 
 When you end up in a more strictly controlled environment, HTTP and DNS are likely the only protocols allowed to go outside. Furthermore, you can bet on both being proxied and highly monitored. This time, I'll focus on some opportunities to hide traffic within DNS that does not trigger traditional subdomain-based anomaly detection.

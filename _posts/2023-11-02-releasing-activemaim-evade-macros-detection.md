@@ -8,7 +8,7 @@ images_path: /assets/images/posts/2023-11-02-releasing-activemaim-evade-macros-d
 banner:
   image: /assets/images/posts/2023-11-02-releasing-activemaim-evade-macros-detection/banner.png
 image: /assets/images/posts/2023-11-02-releasing-activemaim-evade-macros-detection/banner.png
-tags: ["T1059", "T1140", "T1564", "vba", "office", "evasion"]
+tags: ["TA0005", "TA0001", "vba", "office"]
 ---
 
 A few months ago JPCERT/CC [released](https://blogs.jpcert.or.jp/en/2023/08/maldocinpdf.html) a "new" techinque they've encountered, where Bad Guys generated a DOC/PDF polyglot to bypass VBA detection. I've put "new" in quotes just because veterans definitely remember exactly the same technique being used as early as 2014-2015. Well, maybe novelty here is that the Baddies figured out how good of a polyglot MHT format really is, not sure.
