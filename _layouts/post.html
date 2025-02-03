@@ -59,7 +59,6 @@ sidebar:
             href="{{ post.url | relative_url }}"
             title="{{ post.title | escape }}">
             {{ post.title | escape | truncatewords: 12 }}
-            {%- include views/post-badges.html -%}
           </a>
         </li>
         {%- endfor -%}
